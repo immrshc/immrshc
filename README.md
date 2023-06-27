@@ -1,18 +1,11 @@
 ### Hi there 👋
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=immrshc&show_icons=true&count_private=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=immrshc&show_icons=true&count_private=true&theme=buefy"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=immrshc&show_icons=true&count_private=true&theme=transparent" />
-</picture>
+These stats do not include information on repositories that require special authentication such as SSO.\
+Please check out my site for more information.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immrshc)
+![immrshc's GitHub stats](https://github-readme-stats.vercel.app/api?username=immrshc&count_private=true\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immrshc&hide_progress=true\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 <!--
 **immrshc/immrshc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
