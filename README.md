@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 These stats do not include information on repositories that require special authentication such as SSO.\
-Please check out my site for more information.
+Please check out [my site](https://immrshc.netlify.app/) for more information.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=immrshc&show_icons=true&count_private=true&theme=radical" />
