@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-These stats do not include information on repositories that require special authentication such as SSO.\
-Please check out [my site](https://immrshc.netlify.app/) for more information.
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=immrshc&show_icons=true&count_private=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=immrshc&hide_progress=true&theme=radical&langs_count=8" />
-</a>
+Please check out [my site](https://immrshc.github.io/) for more information.
 
 <!--
 **immrshc/immrshc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
